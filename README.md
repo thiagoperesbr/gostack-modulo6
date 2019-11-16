@@ -13,6 +13,6 @@
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd modulo6`;
 3. Rode `yarn` para instalar as dependências;
-4. Rode yarn react-native run-ios ou yarn react-native run-android dependendo do SO.
+4. Rode react-native run-ios ou react-native run-android dependendo do SO.
 
 🎓 Bootcamp - GoStack by Rocketseat.
