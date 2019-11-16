@@ -39,6 +39,12 @@ target 'modulo6' do
   pod 'react-native-webview', :path => '../node_modules/react-native-webview'
 
 
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
+  pod 'RNScreens', :path => '../node_modules/react-native-screens'
+
   target 'modulo6Tests' do
     inherit! :search_paths
     # Pods for testing
