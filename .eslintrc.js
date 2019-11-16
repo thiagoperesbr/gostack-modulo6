@@ -23,5 +23,11 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/state-in-constructor': ['error', 'never'],
     'react/static-property-placement': 'off',
+    'react/sort-comp': [
+      1,
+      {
+        order: ['propTypes', 'everything-else', 'render'],
+      },
+    ],
   },
 };
